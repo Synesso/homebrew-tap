@@ -1,9 +1,9 @@
 class Ishi < Formula
   desc "TUI for managing Linear issues with Amp integration"
   homepage "https://github.com/synesso/ishi"
-  url "https://github.com/synesso/ishi/releases/download/v0.2.0/ishi-universal-apple-darwin.tar.gz"
-  sha256 "678ded726177d9a1edb8b041bffffa36147fb2b0bbbe107bc42cc9b067a4f97f"
-  version "0.2.0"
+  url "https://github.com/synesso/ishi/releases/download/v0.3.0/ishi-universal-apple-darwin.tar.gz"
+  sha256 "894b5c704c735c8ec36a296f3b4b0f65cea4924152d15d40f940e36dc9709de9"
+  version "0.3.0"
   license "MIT"
 
   def install
